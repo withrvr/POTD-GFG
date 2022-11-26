@@ -1,3 +1,15 @@
+# all c files if any
+*.c
+
+# cpp files/folder for testing n running
+main*
+test*
+potd*
+
+# md files
+notes.md
+template_discussions.md
+
 # Prerequisites
 *.d
 
