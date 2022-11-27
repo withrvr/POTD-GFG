@@ -4,6 +4,8 @@
 # cpp files/folder for testing n running
 main*
 test*
+foo*
+bar*
 potd*
 
 # md files
