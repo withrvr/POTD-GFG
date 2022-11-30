@@ -24,9 +24,9 @@ IF YOU CAN'T SOLVE-PROBLEM
 <br><span style="color:green;">KEEP MOVING</span>
 <h3>
 
-<!-- ![alt text](./quote.jpg) -->
+<!-- ![quote image](./quote.jpg) -->
 <!-- https://www.myincrediblewebsite.com/wp-content/uploads/2017/01/MLK-on-Moving.jpg -->
 <br>
-<a href="url"><img src="./quote.jpg" align="left" height="500" ></a>
+<img src="./quote.jpg" align="left" height="500" />
 <br>
 <br>
