@@ -1,16 +1,3 @@
-/*
-
-Shreyansh and his bits ( 25 Nov 2022 )
-https://practice.geeksforgeeks.org/problems/shreyansh-and-his-bits1420/1
-
-- - -
-https://www.youtube.com/watch?v=L7pTog4tM8I&t=142s&ab_channel=GeeksforGeeksPractice
-- - -
-
-Correct solution without tle
-my fact and ncr /// not working properly ?? dont know y
-*/
-
 class Solution
 {
 public:

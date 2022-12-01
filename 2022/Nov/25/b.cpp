@@ -1,15 +1,3 @@
-/*
-
-Shreyansh and his bits ( 25 Nov 2022 )
-https://practice.geeksforgeeks.org/problems/shreyansh-and-his-bits1420/1
-
-- - -
-
-TLE
-but problem solved
-need better logic for time complicity
-*/
-
 class Solution
 {
 public:

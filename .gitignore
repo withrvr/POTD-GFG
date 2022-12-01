@@ -1,4 +1,7 @@
-# all c files if any
+# vs code
+.vscode
+
+# C related
 *.c
 
 # cpp files/folder for testing n running
@@ -8,7 +11,7 @@ foo*
 bar*
 potd*
 
-# md files
+# md related
 notes.md
 template_discussions.md
 

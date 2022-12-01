@@ -1,16 +1,3 @@
-/*
-
-Shreyansh and his bits ( 25 Nov 2022 )
-https://practice.geeksforgeeks.org/problems/shreyansh-and-his-bits1420/1
-
-- - -
-
-but my logic will take greater also
-so half only solved
-first logic to solve under TLE which came in my mind
-
-*/
-
 class Solution
 {
 public:
